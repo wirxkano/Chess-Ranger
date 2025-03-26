@@ -9,7 +9,7 @@ The rules are simple.
 - You are allowed to capture the king.
 - The goal is to end up with one single piece on the board.
 
-## Usange
+## Usage
 - Using Breadth First Search solver: `python main.py 0`
 - Using Best First Search solver: `python main.py 0`
 - The state of the board will be randomized. Press space to perform next step, press `N` to start new game.
