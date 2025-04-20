@@ -1,4 +1,4 @@
-# AI Course Assignment 1
+# Assignment 1 - Introduction to Artificial Intelligence Course
 
 ## Introduction
 **Chess Ranger** is a logic puzzle with simple rules and challenging solutions.
@@ -11,5 +11,5 @@ The rules are simple.
 
 ## Usage
 - Using Breadth First Search solver: `python main.py 0`
-- Using Best First Search solver: `python main.py 0`
+- Using Best First Search solver: `python main.py 1`
 - The state of the board will be randomized. Press space to perform next step, press `N` to start new game.
